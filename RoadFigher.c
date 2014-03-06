@@ -358,7 +358,7 @@ int main(int argc, char **argv)
     glutInitWindowPosition(0, 0);  
 
     /* Open a window */  
-    window = glutCreateWindow("The first game we made!!!");  
+    window = glutCreateWindow("RoadFighter - Naman");  
 
     /* Register the function to do all our OpenGL drawing. */
     glutDisplayFunc(&DrawGLScene);  
